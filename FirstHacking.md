@@ -1,4 +1,4 @@
-# 🛠️ Laboratorio de Pentesting
+# 🛠️ First Hacking
 
 Este repositorio documenta el uso de herramientas esenciales para realizar un análisis de seguridad, desde el escaneo de puertos hasta la explotación y persistencia en la máquina víctima.
 
