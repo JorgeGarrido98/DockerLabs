@@ -125,3 +125,10 @@ Identificamos /usr/bin/env como binario potencialmente explotable.
 - Dump de credenciales desde base de datos.
 - Acceso por SSH a máquina víctima.
 - Escalada de privilegios mediante binario SUID.
+
+---
+
+## 👤 Autor
+- Jorge Garrido
+- Pentester y Hacker Ético
+- 📍 Madrid, España
